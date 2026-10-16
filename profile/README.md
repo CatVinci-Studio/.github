@@ -4,7 +4,7 @@
 
 ## An open-source organization making AI useful to everyone.
 
-[catvinci.com](https://catvinci.com) · [News](https://catvinci.com/news/) · [Join us](https://catvinci.com/#join) · [studio@catvinci.com](mailto:studio@catvinci.com)
+[catvinci.com](https://catvinci.com) · [News](https://catvinci.com/news/) · [Join us](https://catvinci.com/#join) · [Discord](https://catvinci.com/discord) · [studio@catvinci.com](mailto:studio@catvinci.com)
 
 English · [简体中文](https://github.com/CatVinci-Studio/.github/blob/main/profile/README.zh.md)
 
@@ -30,7 +30,7 @@ AI for everyone, not just the few. We build free tools that bring AI into the ev
 
 ### Join us
 
-Whether you love code, writing or art, you are welcome here. Leave a line at [catvinci.com/#join](https://catvinci.com/#join) or write to [studio@catvinci.com](mailto:studio@catvinci.com).
+Whether you love code, writing or art, you are welcome here. Leave a line at [catvinci.com/#join](https://catvinci.com/#join), say hello on [Discord](https://catvinci.com/discord), or write to [studio@catvinci.com](mailto:studio@catvinci.com).
 
 ---
 

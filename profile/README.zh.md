@@ -4,7 +4,7 @@
 
 ## 一个开源组织，让 AI 为每个人所用。
 
-[catvinci.com](https://catvinci.com/zh/) · [动态](https://catvinci.com/zh/news/) · [加入我们](https://catvinci.com/zh/#join) · [studio@catvinci.com](mailto:studio@catvinci.com)
+[catvinci.com](https://catvinci.com/zh/) · [动态](https://catvinci.com/zh/news/) · [加入我们](https://catvinci.com/zh/#join) · [Discord](https://catvinci.com/discord) · [studio@catvinci.com](mailto:studio@catvinci.com)
 
 [English](https://github.com/CatVinci-Studio) · 简体中文
 
@@ -30,7 +30,7 @@
 
 ### 与我们同行
 
-无论你喜欢代码、写作还是艺术，我们都欢迎你的加入。可以在 [catvinci.com/zh/#join](https://catvinci.com/zh/#join) 留言，或写信到 [studio@catvinci.com](mailto:studio@catvinci.com)。
+无论你喜欢代码、写作还是艺术，我们都欢迎你的加入。可以在 [catvinci.com/zh/#join](https://catvinci.com/zh/#join) 留言，到 [Discord](https://catvinci.com/discord) 打个招呼，或写信到 [studio@catvinci.com](mailto:studio@catvinci.com)。
 
 ---
 

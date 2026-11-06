@@ -25,8 +25,8 @@ AI for everyone, not just the few. We build free tools that bring AI into the ev
 
 ### Products
 
-<img src="https://textus.catvinci.com/icon.png" width="22" align="top" alt="" /> **[Textus](https://github.com/CatVinci-Studio/Textus)** — the next-generation Markdown editor. You hold the pen, AI keeps your ink flowing. Free for macOS, Windows and Linux.
-→ [textus.catvinci.com](https://textus.catvinci.com)
+<img src="https://textus.md/icon.png" width="22" align="top" alt="" /> **[Textus](https://github.com/CatVinci-Studio/Textus)** — the next-generation Markdown editor. You hold the pen, AI keeps your ink flowing. Free for macOS, Windows and Linux.
+→ [textus.md](https://textus.md)
 
 ### Join us
 

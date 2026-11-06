@@ -25,8 +25,8 @@
 
 ### 产品
 
-<img src="https://textus.catvinci.com/icon.png" width="22" align="top" alt="" /> **[Textus](https://github.com/CatVinci-Studio/Textus)** —— 下一代 Markdown 编辑器。下笔成章，AI 研墨。免费支持 macOS、Windows 和 Linux。
-→ [textus.catvinci.com](https://textus.catvinci.com/zh/)
+<img src="https://textus.md/icon.png" width="22" align="top" alt="" /> **[Textus](https://github.com/CatVinci-Studio/Textus)** —— 下一代 Markdown 编辑器。下笔成章，AI 研墨。免费支持 macOS、Windows 和 Linux。
+→ [textus.md](https://textus.md/zh/)
 
 ### 与我们同行
 
